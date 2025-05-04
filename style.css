@@ -1,0 +1,12 @@
+.box {
+  width: 200px;
+  height: 100px;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 100px;
+  margin: 10px;
+}
+
+.hidden {
+  display: none;
+}
